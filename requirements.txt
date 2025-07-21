@@ -1,0 +1,14 @@
+sentence-transformers==2.2.2
+langchain==0.3.26
+flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community==0.3.27
+langchain_openai
+langchain_experimental
+sentence-transformers
+-e .
+
+# conda activate medibot

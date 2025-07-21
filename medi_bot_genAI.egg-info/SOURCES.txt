@@ -1,0 +1,8 @@
+setup.py
+medi_bot_genAI.egg-info/PKG-INFO
+medi_bot_genAI.egg-info/SOURCES.txt
+medi_bot_genAI.egg-info/dependency_links.txt
+medi_bot_genAI.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
