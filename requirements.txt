@@ -12,3 +12,4 @@ sentence-transformers
 -e .
 langchain-groq
 # conda activate medibot
+# 402270144592.dkr.ecr.ap-south-1.amazonaws.com/medical
